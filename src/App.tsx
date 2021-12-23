@@ -59,7 +59,15 @@ export default class App extends Component {
               textShadow: "2px 2px 8px rgba(0, 0, 0, 0.5)"
             }}
           >
-            Hi there, looking for something about me? Well, keep looking...
+            Hi there,
+          </h1>
+          <h1
+            style={{
+              fontSize: "3em",
+              textShadow: "2px 2px 8px rgba(0, 0, 0, 0.5)"
+            }}
+          >
+            looking for something about me? Well, keep looking...
           </h1>
         </div>
       </div>
