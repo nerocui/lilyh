@@ -59,7 +59,7 @@ export default class App extends Component {
               textShadow: "2px 2px 8px rgba(0, 0, 0, 0.5)"
             }}
           >
-            Hi Lily
+            Hi there, looking for something about me? Well, keep looking...
           </h1>
         </div>
       </div>
